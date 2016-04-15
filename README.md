@@ -1,6 +1,8 @@
-# Project3Observer
+# Project 3 Observer Pattern
 COMP 473
+
 Henry Remache
+
 Stephanie Verlingo
 
 ##Problem Solved by Observer Pattern:
